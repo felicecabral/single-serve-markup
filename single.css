@@ -1,0 +1,23 @@
+html{
+  font-family: 'Caveat', cursive;
+}
+.container-fluid{
+
+}
+
+img{
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+header {
+  text-align: center;
+  font-size: 100%;
+  font-family: 'Bangers', cursive;
+}
+
+main{
+  text-align: center;
+  font-family: serif;
+}
